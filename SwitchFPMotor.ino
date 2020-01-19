@@ -1,12 +1,10 @@
 /**
  * PROJECT SWITCH POWER SEPEDA MOTOR DENGAN FINGERPRINT SENSOR
- * Copyright (c) 2019. Tim PKM-KC AMIKOM Purwokerto 2019/2020.
+ * Copyright (c) 2019. Dwi Candra Permana.
  * 
  * Credits
  * ----------
  * - Penulis Kode         : Dwi Candra Permana
- * - Perakit Prototype    : Mar'Atun Solehah
- * - Perancang Proposal   : Mba Lina (Angkatan 2016)
  * 
  * Deskripsi:
  * ----------
